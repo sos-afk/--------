@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="50" viewBox="0 0 180 50">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="180" height="50" fill="#FFFFFF"/>
+    <g transform="translate(10, 10)">
+      <text x="0" y="25" font-family="Arial, sans-serif" font-weight="bold" font-size="28" fill="#00A0E9">
+        FLAT
+      </text>
+      <text x="90" y="25" font-family="Arial, sans-serif" font-size="14" fill="#333333">
+        株式会社フラット
+      </text>
+    </g>
+  </g>
+</svg>
